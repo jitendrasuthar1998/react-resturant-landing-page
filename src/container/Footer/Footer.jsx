@@ -39,6 +39,7 @@ const Footer = () => (
     </div>
     <div className='footer__copyright'>
       <p className='p__opensans'>2021 Gericht. All rights reserved.</p>
+      <p className='p__opensans'>A demo website created by Jitendra Suthar - jitendrasuthar995@gmail.com.</p>
     </div>
   </div>
 );
