@@ -4,6 +4,10 @@ To make this landing page responsive, i write media queries for different screen
 
 To add icons, i used react-icons library.
 
+
+<h1><a href="https://generich-restuarant-landing-by-js.netlify.app/">Demo Link</a></h1>
+
+
 <h1>Landing page different sections are:</h1> 
 
 <h3>1. Introduction Section </h3>
@@ -41,4 +45,5 @@ To add icons, i used react-icons library.
 <h3>9. Footer Section </h3>
 
 <img src="screenshots/preview 9 footer section.png" width="1500"/>
+
 
