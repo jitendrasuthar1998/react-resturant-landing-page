@@ -39,7 +39,7 @@
 
 .app__specialMenu-menu_img img{
     width: 100%;
-    height: auto;
+    height: 400px;
 }
 
 .app__specialMenu_menu_items{
@@ -51,14 +51,12 @@
 
 @media screen and (max-width: 2000px) {
     .app__specialMenu-menu_img{
-        width: 650px;
+        width: 550px;
     }
 
     .app__specialMenu-menu_img img{
-      height: 910px;
+      height: 710px;
     }
-
-
 }
 
 @media screen and (max-width: 1150px) {
@@ -75,7 +73,7 @@
 
 @media screen and (max-width: 650px) {
     .app__specialMenu-menu_img{
-        width: 100%;
+        width: 60%;
     }
 
     .app__specialMenu-menu_img img{

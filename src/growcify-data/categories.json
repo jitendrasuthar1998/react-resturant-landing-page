@@ -1,0 +1,471 @@
+[
+    {
+        "_id": "5f43f6af77d8450017693f03",
+        "photos": [
+            "resized-categories/5d24f367-569d-4037-b45c-eb2d0bfa222d.png"
+        ],
+        "isActive": true,
+        "deleted": false,
+        "name": "Fruits",
+        "store": "5f43efa177d8450017693efc",
+        "createdAt": "2020-08-24T17:19:44.095Z",
+        "updatedAt": "2022-09-21T18:27:49.666Z",
+        "__v": 7,
+        "translations": {
+            "name": {
+                "en": "Fruits",
+                "hi": "फल",
+                "ar": "الفاكهة"
+            }
+        },
+        "sequenceNumber": 1,
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "isSeasonal": true,
+        "deliveryCharge": 0,
+        "deliveryFreeAbove": 0,
+        "isVendorsOnly": false,
+        "minimumOrder": 0,
+        "seasonalSequenceNumber": 1,
+        "vendors": [],
+        "slug": "fruits",
+        "uuid": "ELUyCy",
+        "products": 14,
+        "children": 0
+    },
+    {
+        "_id": "5f43f6f077d8450017693f05",
+        "photos": [
+            "resized-categories/9fcc70ad-88d4-4987-b9d4-392a2e64ed39.png"
+        ],
+        "isActive": true,
+        "deleted": false,
+        "name": "Grocery",
+        "store": "5f43efa177d8450017693efc",
+        "createdAt": "2020-08-24T17:20:48.408Z",
+        "updatedAt": "2022-09-21T18:28:15.783Z",
+        "__v": 4,
+        "translations": {
+            "name": {
+                "en": "Grocery",
+                "hi": "किराना"
+            }
+        },
+        "sequenceNumber": 2,
+        "deliveryCharge": 0,
+        "deliveryFreeAbove": 0,
+        "isSeasonal": true,
+        "isVendorsOnly": false,
+        "minimumOrder": 0,
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "seasonalSequenceNumber": 4,
+        "vendors": [],
+        "slug": "grocery",
+        "uuid": "Rvjx0R",
+        "products": 0,
+        "children": 4
+    },
+    {
+        "_id": "5f43f6e377d8450017693f04",
+        "photos": [
+            "resized-categories/6c353b5d-2d11-43d1-b2d9-7572e4d2c62e.png"
+        ],
+        "isActive": true,
+        "deleted": false,
+        "name": "Vegetables",
+        "store": "5f43efa177d8450017693efc",
+        "createdAt": "2020-08-24T17:20:35.886Z",
+        "updatedAt": "2022-09-21T18:29:55.948Z",
+        "__v": 5,
+        "translations": {
+            "name": {
+                "en": "Vegetables",
+                "hi": "सब्जियां"
+            }
+        },
+        "sequenceNumber": 3,
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "isSeasonal": true,
+        "deliveryCharge": 0,
+        "deliveryFreeAbove": 0,
+        "isVendorsOnly": false,
+        "minimumOrder": 0,
+        "seasonalSequenceNumber": 2,
+        "vendors": [],
+        "slug": "vegetables",
+        "uuid": "4oxpIq",
+        "products": 35,
+        "children": 0
+    },
+    {
+        "_id": "5f4538cffe67680017df25cc",
+        "photos": [
+            "resized-categories/ce3527dd-bf8e-451c-bcef-e95f36baaae1.png"
+        ],
+        "isActive": true,
+        "deleted": false,
+        "name": "Beverages",
+        "store": "5f43efa177d8450017693efc",
+        "createdAt": "2020-08-25T16:14:07.244Z",
+        "updatedAt": "2022-09-21T18:28:35.796Z",
+        "__v": 5,
+        "translations": {
+            "name": {
+                "en": "Beverages",
+                "hi": "ड्रिंक्स"
+            }
+        },
+        "sequenceNumber": 4,
+        "isSeasonal": true,
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "deliveryCharge": 0,
+        "deliveryFreeAbove": 0,
+        "isVendorsOnly": false,
+        "minimumOrder": 0,
+        "seasonalSequenceNumber": 5,
+        "vendors": [],
+        "slug": "beverages",
+        "uuid": "W5ZzaG",
+        "products": 6,
+        "children": 0
+    },
+    {
+        "_id": "5f5fafa004ebf5001742dc3b",
+        "photos": [
+            "resized-categories/812153f5-1bda-4b1c-b083-727a8a6222dc.png"
+        ],
+        "isActive": true,
+        "deleted": false,
+        "name": "Men's Wear",
+        "store": "5f43efa177d8450017693efc",
+        "createdAt": "2020-09-14T18:00:01.073Z",
+        "updatedAt": "2022-03-24T20:23:52.181Z",
+        "__v": 5,
+        "translations": {
+            "name": {
+                "en": "Men's Wear",
+                "hi": "पुरुषों का पहनावा"
+            }
+        },
+        "sequenceNumber": 5,
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "deliveryCharge": 0,
+        "deliveryFreeAbove": 0,
+        "isSeasonal": false,
+        "isVendorsOnly": false,
+        "minimumOrder": 0,
+        "seasonalSequenceNumber": 0,
+        "slug": "mens-wear",
+        "uuid": "Q1tqMd",
+        "vendors": [],
+        "products": 0,
+        "children": 8
+    },
+    {
+        "_id": "613b4ca827909600169b84ef",
+        "photos": [
+            "resized-categories/443dfc3d-521c-4143-bb45-5a5aa9c451a4.png",
+            "resized-categories/eb70888c-89c4-419b-a66a-afcd0eb7645a.png"
+        ],
+        "isSeasonal": false,
+        "isActive": true,
+        "sequenceNumber": 6,
+        "seasonalSequenceNumber": 0,
+        "isVendorsOnly": false,
+        "deleted": false,
+        "deliveryCharge": 0,
+        "minimumOrder": 0,
+        "deliveryFreeAbove": 0,
+        "vendors": [
+            "613b486dc3efdb0016fccd77"
+        ],
+        "name": "Women's Wear",
+        "store": "5f43efa177d8450017693efc",
+        "createdBy": "603c7a1a8cdef00017685572",
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "createdAt": "2021-09-10T12:16:40.542Z",
+        "updatedAt": "2022-03-24T20:24:01.298Z",
+        "__v": 7,
+        "slug": "womens-wear",
+        "uuid": "2bVkMm",
+        "products": 0,
+        "children": 13
+    },
+    {
+        "_id": "623ccfed24caeb00162e4b0e",
+        "photos": [
+            "resized-categories/fa4d1c51-7640-45c7-a24b-49f718a52c82.png"
+        ],
+        "isSeasonal": false,
+        "isActive": true,
+        "sequenceNumber": 6,
+        "seasonalSequenceNumber": 0,
+        "isVendorsOnly": false,
+        "deleted": false,
+        "deliveryCharge": 0,
+        "minimumOrder": 0,
+        "deliveryFreeAbove": 0,
+        "vendors": [],
+        "name": "Food",
+        "store": "5f43efa177d8450017693efc",
+        "createdBy": "5f43ef6777d8450017693efb",
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "createdAt": "2022-03-24T20:09:17.499Z",
+        "updatedAt": "2022-03-24T20:13:38.490Z",
+        "slug": "food",
+        "uuid": "UV9RDG",
+        "__v": 0,
+        "products": 0,
+        "children": 8
+    },
+    {
+        "_id": "5f43f71877d8450017693f07",
+        "photos": [
+            "resized-categories/12143913-13b7-4cac-84a9-4d086e069412.png"
+        ],
+        "isActive": true,
+        "deleted": false,
+        "name": "Electronics",
+        "store": "5f43efa177d8450017693efc",
+        "createdAt": "2020-08-24T17:21:28.588Z",
+        "updatedAt": "2022-03-24T20:24:39.692Z",
+        "__v": 4,
+        "sequenceNumber": 7,
+        "deliveryCharge": 0,
+        "deliveryFreeAbove": 0,
+        "isSeasonal": false,
+        "isVendorsOnly": false,
+        "minimumOrder": 0,
+        "seasonalSequenceNumber": 0,
+        "slug": "electronics",
+        "uuid": "We-EUs",
+        "vendors": [],
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "products": 0,
+        "children": 12
+    },
+    {
+        "_id": "60ffb4cdb425f30015f3d62e",
+        "photos": [
+            "resized-categories/2f71dd91-860b-4ae3-b0ec-35a0ddf787a1.png"
+        ],
+        "isSeasonal": false,
+        "isActive": true,
+        "sequenceNumber": 14,
+        "seasonalSequenceNumber": 0,
+        "isVendorsOnly": false,
+        "deleted": false,
+        "deliveryCharge": 0,
+        "minimumOrder": 0,
+        "deliveryFreeAbove": 0,
+        "vendors": [],
+        "name": "Dairy",
+        "store": "5f43efa177d8450017693efc",
+        "createdBy": "603c7a1a8cdef00017685572",
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "createdAt": "2021-07-27T07:25:01.838Z",
+        "updatedAt": "2022-03-24T21:14:28.050Z",
+        "__v": 1,
+        "slug": "dairy",
+        "uuid": "xd16Oy",
+        "products": 0,
+        "children": 1
+    },
+    {
+        "_id": "60b62e211875f800157532c6",
+        "photos": [
+            "resized-categories/d03a98ba-e9bf-4116-b66b-23ea36bb734d.png"
+        ],
+        "isSeasonal": false,
+        "isActive": true,
+        "sequenceNumber": 23,
+        "deleted": false,
+        "deliveryCharge": 0,
+        "deliveryFreeAbove": 0,
+        "vendors": [
+            "60b59f33ccb9e50015276f35"
+        ],
+        "name": "Cakes",
+        "store": "5f43efa177d8450017693efc",
+        "createdBy": "5f43ef6777d8450017693efb",
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "createdAt": "2021-06-01T12:54:58.069Z",
+        "updatedAt": "2022-03-24T17:33:18.854Z",
+        "__v": 2,
+        "isVendorsOnly": false,
+        "minimumOrder": 0,
+        "seasonalSequenceNumber": 0,
+        "slug": "cakes",
+        "uuid": "FbEB5M",
+        "products": 0,
+        "children": 0
+    },
+    {
+        "_id": "60b62e8e78cc5a00158c4e1a",
+        "photos": [
+            "resized-categories/c70cdbb5-af33-43f7-8d9e-49b6be145001.png"
+        ],
+        "isSeasonal": false,
+        "isActive": true,
+        "sequenceNumber": 23,
+        "deleted": false,
+        "deliveryCharge": 0,
+        "deliveryFreeAbove": 0,
+        "vendors": [
+            "60b59f33ccb9e50015276f35"
+        ],
+        "name": "Pastries",
+        "store": "5f43efa177d8450017693efc",
+        "createdBy": "5f43ef6777d8450017693efb",
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "createdAt": "2021-06-01T12:56:47.164Z",
+        "updatedAt": "2022-03-24T17:39:37.673Z",
+        "__v": 2,
+        "isVendorsOnly": false,
+        "minimumOrder": 0,
+        "seasonalSequenceNumber": 0,
+        "slug": "pastries",
+        "uuid": "U5YwSf",
+        "products": 0,
+        "children": 0
+    },
+    {
+        "_id": "60b62ed61875f800157532c9",
+        "photos": [
+            "resized-categories/8091e5f8-2273-419f-8a4c-3077a75bb69a.png"
+        ],
+        "isSeasonal": false,
+        "isActive": true,
+        "sequenceNumber": 23,
+        "deleted": false,
+        "deliveryCharge": 0,
+        "deliveryFreeAbove": 0,
+        "vendors": [
+            "60b59f33ccb9e50015276f35",
+            "60b5a32dccb9e50015276f3a"
+        ],
+        "name": "Ice Cream",
+        "store": "5f43efa177d8450017693efc",
+        "createdBy": "5f43ef6777d8450017693efb",
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "createdAt": "2021-06-01T12:57:59.195Z",
+        "updatedAt": "2022-03-24T17:40:29.577Z",
+        "__v": 3,
+        "isVendorsOnly": false,
+        "minimumOrder": 0,
+        "seasonalSequenceNumber": 0,
+        "slug": "ice-cream",
+        "uuid": "w8TiJK",
+        "products": 0,
+        "children": 0
+    },
+    {
+        "_id": "623ce1d124caeb00162e4b12",
+        "photos": [
+            "resized-categories/1f72f716-932f-4b99-b99d-e56cb2cccee8.png"
+        ],
+        "isSeasonal": true,
+        "isActive": true,
+        "sequenceNumber": 33,
+        "seasonalSequenceNumber": 2,
+        "isVendorsOnly": false,
+        "deleted": false,
+        "deliveryCharge": 0,
+        "minimumOrder": 0,
+        "deliveryFreeAbove": 0,
+        "vendors": [],
+        "name": "Personal Care",
+        "store": "5f43efa177d8450017693efc",
+        "createdBy": "5f43ef6777d8450017693efb",
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "createdAt": "2022-03-24T21:25:37.907Z",
+        "updatedAt": "2022-09-21T18:26:39.320Z",
+        "slug": "personal-care-48afc2",
+        "uuid": "ETRCuG",
+        "__v": 0,
+        "products": 31,
+        "children": 0
+    },
+    {
+        "_id": "623d67a4efeb8c001674ca25",
+        "photos": [
+            "resized-categories/3aa268e5-ca39-4991-97bb-2e6cdaceda1e.png"
+        ],
+        "isSeasonal": false,
+        "isActive": true,
+        "sequenceNumber": 33,
+        "seasonalSequenceNumber": 0,
+        "isVendorsOnly": false,
+        "deleted": false,
+        "deliveryCharge": 0,
+        "minimumOrder": 0,
+        "deliveryFreeAbove": 0,
+        "vendors": [
+            "60b5a32dccb9e50015276f3a"
+        ],
+        "name": "Pet Supplies",
+        "store": "5f43efa177d8450017693efc",
+        "createdBy": "5f43ef6777d8450017693efb",
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "createdAt": "2022-03-25T06:56:36.957Z",
+        "updatedAt": "2022-05-27T07:27:50.734Z",
+        "slug": "pet-supplies",
+        "uuid": "ikoIA5",
+        "__v": 1,
+        "products": 0,
+        "children": 8
+    },
+    {
+        "_id": "623ce2771ce1f1001665f6cd",
+        "photos": [
+            "resized-categories/47cd89f2-acd4-4636-8fab-559a002f6b3b.png"
+        ],
+        "isSeasonal": false,
+        "isActive": true,
+        "sequenceNumber": 63,
+        "seasonalSequenceNumber": 0,
+        "isVendorsOnly": false,
+        "deleted": false,
+        "deliveryCharge": 0,
+        "minimumOrder": 0,
+        "deliveryFreeAbove": 0,
+        "vendors": [],
+        "name": "Baby Care",
+        "store": "5f43efa177d8450017693efc",
+        "createdBy": "5f43ef6777d8450017693efb",
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "createdAt": "2022-03-24T21:28:23.486Z",
+        "updatedAt": "2022-03-24T21:29:10.072Z",
+        "slug": "baby-care-0aeb5f",
+        "uuid": "1ZjKHg",
+        "__v": 0,
+        "products": 14,
+        "children": 0
+    },
+    {
+        "_id": "623cf2781ce1f1001665f6d2",
+        "photos": [
+            "resized-categories/f602c827-3db9-4b4f-9dcd-baf5ab6b2aff.png"
+        ],
+        "isSeasonal": false,
+        "isActive": true,
+        "sequenceNumber": 78,
+        "seasonalSequenceNumber": 0,
+        "isVendorsOnly": false,
+        "deleted": false,
+        "deliveryCharge": 0,
+        "minimumOrder": 0,
+        "deliveryFreeAbove": 0,
+        "vendors": [],
+        "name": "Furniture",
+        "store": "5f43efa177d8450017693efc",
+        "createdBy": "5f43ef6777d8450017693efb",
+        "modifiedBy": "5f43ef6777d8450017693efb",
+        "createdAt": "2022-03-24T22:36:40.614Z",
+        "updatedAt": "2022-03-24T22:53:33.880Z",
+        "slug": "furniture",
+        "uuid": "bPgyRw",
+        "__v": 0,
+        "products": 0,
+        "children": 8
+    }
+]
