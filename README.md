@@ -5,7 +5,7 @@ To make this landing page responsive, i write media queries for different screen
 To add icons, i used react-icons library.
 
 
-<h1><a href="https://generich-restuarant-landing-by-js.netlify.app/" target="_blank">Demo Link</a></h1>
+<h1><a href="https://restaurant-landing-page-by-jitendra.netlify.app/" target="_blank">Demo Link</a></h1>
 
 
 <h1>Landing page different sections are:</h1> 
