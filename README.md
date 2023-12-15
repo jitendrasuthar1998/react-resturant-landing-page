@@ -1,8 +1,10 @@
-A Responsive landing page build on react.js. It includes different sections.
+A landing page website for a restaurant that tells its users about the restaurant's menu, beliefs, awards & recognition, and available product pictures.
 
-To make this landing page responsive, i write media queries for different screens.
+A Responsive landing page builds on react.js. It includes different sections.
 
-To add icons, i used react-icons library.
+I write media queries for different screens to make this landing page responsive.
+
+To add icons, I used the react-icons library.
 
 
 <h1><a href="https://restaurant-landing-page-by-jitendra.netlify.app/" target="_blank">Demo Link</a></h1>
