@@ -1,38 +1,31 @@
-.app__header{
-    background-color: var(--color-black);
+.app__header {
+  background-color: var(--color-black);
 }
 
-.app__header-h1{
-    font-family: var(--font-base);
-    color: var(--color-golden);
-    letter-spacing: 0.04rem;
-    text-transform: uppercase;
-    line-height: 117px;
-    font-size: 90px;
+.app__header-h1 {
+  font-family: var(--font-base);
+  color: var(--color-golden);
+  letter-spacing: 0.04rem;
+  text-transform: uppercase;
+  line-height: 5rem;
+  font-size: 4rem;
 }
 
-.app__header-img img{
-    width: 80%;
-}
-
-
-@media screen and (max-width: 2000px) {
-    
+.app__header-img img {
+  width: 80%;
 }
 
 @media screen and (max-width: 1150px) {
-    
-    .app__wrapper_img img {
-        width: 40%;
-      }
-    
+  .app__wrapper_img img {
+    width: 40%;
+  }
 }
 
 @media screen and (max-width: 650px) {
-    .app__wrapper_img {
-        width: 40%;
-      }
-    .app__header-img img{
-      height: 410px;
-    }
+  .app__wrapper_img {
+    width: 40%;
+  }
+  .app__header-img img {
+    height: 410px;
+  }
 }
