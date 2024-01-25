@@ -15,7 +15,9 @@ const App = () => (
   <div>
     <Navbar />
     <Header />
-    <AboutUs />
+    <Suspense fallback='loading'>
+      <AboutUs />
+    </Suspense>
     <Suspense fallback='loading'>
       <SpecialMenu />
     </Suspense>
